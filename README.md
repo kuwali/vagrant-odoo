@@ -56,7 +56,7 @@ Contribute
 
 Do a Pull Request. You can contact me kustiawanto.halim@gmail.com
 
-LISCENCE
+LICENCE
 -----
 
-[LICENSE] (https://github.com/kuwali/vagrant-odoo/blob/master/LICENCE)
+[LICENCE](https://github.com/kuwali/vagrant-odoo/blob/master/LICENCE)
